@@ -25,5 +25,9 @@ Testing 때문에 또 작성했습니다.
 
 여기는 소본문 입니다.
 파일을 수정해 봤습니다.
+<<<<<<< HEAD
 Experiment
 I am master
+=======
+Master
+>>>>>>> experiment
